@@ -2,7 +2,7 @@
 
 ## I'm ready for remote projects
 * 🌍  I'm based in Golestān, Iran
-* 🚀  I'm currently working on [Zaya](http://zaya.io)
+* 🚀  I'm currently working on [Zaya](http://zaya.io) and [7learn](https://7learn.com)
 
 [![Gmail Badge](https://img.shields.io/badge/-alikhosravi175@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alikhosravi175@gmail.com)](mailto:alikhosravi175@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Ali%20Khosravi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ali-khosravi-89779b99/)](https://linkedin.com/in/ali-khosravi-89779b99/) 
